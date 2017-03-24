@@ -10,8 +10,8 @@ Some utils with game develop
 class ObjTest : public CharcterProtocal
 {
 public:
-	pooltesta(){};
-	virtual ~pooltesta(){};
+	ObjTest(){};
+	virtual ~ObjTest(){};
 	virtual void sleep(){};
 	virtual void awake(){};
 
